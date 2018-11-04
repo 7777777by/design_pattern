@@ -69,3 +69,16 @@
 /target/classes/com/xyz/pattern/strategy/strategy04/Calculator$2.class
 /target/classes/com/xyz/pattern/strategy/strategy04/Calculator.class
 /target/classes/com/xyz/pattern/strategy/strategy04/Client.class
+/.idea/artifacts/crm_war.xml
+/.idea/artifacts/crm_war_exploded.xml
+/.idea/libraries/lib.xml
+/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_6_0.xml
+/.idea/libraries/Maven__com_sun_mail_javax_mail_1_5_6.xml
+/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml
+/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml
+/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml
+/.idea/libraries/Maven__javax_activation_activation_1_1_1.xml
+/.idea/libraries/Maven__javax_mail_javax_mail_api_1_6_2.xml
+/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml
+/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_12.xml
+/.idea/libraries/Maven__org_apache_commons_commons_email_1_5.xml
